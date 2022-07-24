@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793171113132",
+    "project_id": "zap-chat-707bf",
+    "storage_bucket": "zap-chat-707bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793171113132:android:d26c4cd0937021723c9b09",
+        "android_client_info": {
+          "package_name": "co.shah.zapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793171113132-ud7bssdskot663rort6s72gqcps6pfuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6QL03j_u0SVpTyTBAXshAlpihoJSsiJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793171113132-ud7bssdskot663rort6s72gqcps6pfuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
